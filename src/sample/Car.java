@@ -1,7 +1,7 @@
 package sample;
 
 public class Car {
-    private int speed;
+    public int speed;
     private String name;
     private boolean flg;    
 
